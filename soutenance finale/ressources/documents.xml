@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+    <document id="582">
+       <external_url></external_url>
+       <!-- <internal_uri>C:/Users/Bastien GATTACIECCA/Desktop/Projet TER/relevelance/ressources/documents/doc123.txt</internal_uri> -->
+       <internal_uri>D:/Users/basti/Desktop/MIASHS/Projet TER/relevelance/ressources/documents/doc123.txt</internal_uri>
+    </document>
+    <document id="002">
+       <external_url></external_url>
+       <!-- <internal_uri>C:/Users/Bastien GATTACIECCA/Desktop/Projet TER/relevelance/ressources/documents/doc456.txt</internal_uri> -->
+       <internal_uri>D:/Users/basti/Desktop/MIASHS/Projet TER/relevelance/ressources/documents/doc456.txt</internal_uri>
+    </document>
+    <document id="916">
+       <external_url></external_url>
+       <!-- <internal_uri>C:/Users/Bastien GATTACIECCA/Desktop/Projet TER/relevelance/ressources/documents/doc456.txt</internal_uri> -->
+       <internal_uri>D:/Users/basti/Desktop/MIASHS/Projet TER/relevelance/ressources/documents/doc456.txt</internal_uri>
+    </document>
+    <document id="456">
+        <external_url></external_url>
+        <!-- <internal_uri>C:/Users/Bastien GATTACIECCA/Desktop/Projet TER/relevelance/ressources/documents/doc456.txt</internal_uri> -->
+        <internal_uri>D:/Users/basti/Desktop/MIASHS/Projet TER/relevelance/ressources/documents/doc456.txt</internal_uri>
+    </document>
+    <document id="123">
+        <external_url></external_url>
+        <!-- <internal_uri>C:/Users/Bastien GATTACIECCA/Desktop/Projet TER/relevelance/ressources/documents/doc123.txt</internal_uri> -->
+        <internal_uri>D:/Users/basti/Desktop/MIASHS/Projet TER/relevelance/ressources/documents/doc123.txt</internal_uri>
+    </document>
+    <document id="986">
+        <external_url></external_url>
+        <!-- <internal_uri>C:/Users/Bastien GATTACIECCA/Desktop/Projet TER/relevelance/ressources/documents/doc789.txt</internal_uri> -->
+        <internal_uri>D:/Users/basti/Desktop/MIASHS/Projet TER/relevelance/ressources/documents/doc789.txt</internal_uri>
+    </document>
+</documents>
+

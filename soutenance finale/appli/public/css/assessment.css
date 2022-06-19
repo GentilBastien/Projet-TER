@@ -1,0 +1,208 @@
+* {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: -0.05em;
+}
+
+h1 {
+    position: absolute;
+    font-size: 50px;
+    line-height: 64px;
+    font-weight: bold;
+}
+
+h2 {
+    position: absolute;
+    margin: 0px;
+}
+
+span {
+    font-size: 15px;
+}
+
+a {
+    position: relative;
+    margin-left: 5px;
+    color: #888FD7;
+}
+
+.bloc {
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px -11px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.fade {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 36px;
+    line-height: 42px;
+}
+
+button img {
+    margin-top: 3%;
+    mix-blend-mode: color-burn;
+    opacity: 1;
+  }
+
+
+table { /*both campaign and topics tables*/
+    margin-left: 10px;
+    width: 100%;
+}
+
+
+/* BLOC LOGOUT */
+.logout {
+    width: 460px;
+    float: right;
+}
+
+.logout span {
+    position: relative;
+    top: 14px;
+    font-size: 24px;
+}
+
+.redButton {
+    float: right;
+    background: rgba(255, 106, 106, 0.1);
+    border: 1px solid #FF6A6A;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.redButton span {
+    top: -17px;
+    font-weight: 600;
+    letter-spacing: normal;
+    color: #FF6A6A;
+    font-size: 18px;
+}
+
+
+
+
+/* BLOC TOPIC */
+.topic {
+    top: 130px;
+}
+
+.topic table {
+    border-collapse: separate;
+}
+
+tr {
+    margin: 10px;
+    width: auto;
+}
+
+tr td:first-child {
+    font-size: 18px;
+    color: #B3B3B3;
+}
+
+tr td:nth-child(2) {
+    padding-left: 10px;
+}
+
+/* tous les elements tr sauf le dernier */
+table tr:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    height: 20px;
+}
+
+table td.content {
+    text-align: right;
+    padding-left: 40px;
+}
+
+/*BLOC INSTRUCTIONS*/
+.instructions {
+    top: 130px;
+}
+
+.instructions td span {
+    border-radius: 5px;
+    padding: 4px;
+}
+
+table tr:first-child {
+    border-collapse: collapse;
+}
+
+tr td:nth-child(3) {
+    position: relative;
+    float: right;
+}
+
+/*BLOC ABSTRACT*/
+.snippet {
+    top: 130px;
+}
+
+#snippetId {
+    font-size: 18px;
+    color: #B3B3B3;
+}
+
+/*BLOC GLOBAL RELEVANCE*/
+#globalRelevance span {
+    font-size: 18px;
+    color: #B3B3B3;
+}
+
+#radioLabels {
+    position: relative;
+    left: 5px;
+}
+
+.negative {
+    display: none;
+}
+
+
+/*BLOC SAVE*/
+input:not(.radioButton) {
+    position: relative;
+    float: right;
+    top: 130px;
+    right: 14px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 5px;
+}
+
+#abandon {
+    background: rgba(255, 106, 106, 0.1);
+    border: 1px solid #FF6A6A;
+    font-weight: 600;
+    line-height: 28px;
+    color: #FF6A6A;
+    cursor: pointer;
+}
+
+#saveBack {
+    background: rgba(114, 189, 163, 0.1);
+    border: 1px solid #72BDA3;
+    font-weight: 600;
+    line-height: 28px;
+    color: #72BDA3;
+    cursor: pointer;
+}
+
+#saveNext {
+    background: rgba(114, 189, 163, 0.1);
+    border: 1px solid #72BDA3;
+    font-weight: 600;
+    line-height: 28px;
+    color: #72BDA3;
+    cursor: pointer;
+}
+
+#saveNext.disabled {
+    border: 1px solid #72bda377;
+    color: #72bda377;
+}
+

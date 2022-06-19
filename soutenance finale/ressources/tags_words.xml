@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tags_word>
+    <tag_word value="-2" color="FFFFFF">NOT_REVIEWED</tag_word>
+	<tag_word value="-1" color="FFFFFF">unassessed</tag_word>
+    <tag_word value="0" color="E19E9E">not relevant</tag_word>
+    <tag_word value="1" color="8CD1F5">relevant</tag_word>
+    <tag_word value="2" color="C2F58D">topical</tag_word>
+</tags_word>

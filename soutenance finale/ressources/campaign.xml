@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<campaign id="mycampaign">
+	<activated>true</activated>
+	<target>snippets</target>
+	<type>globalwords</type>
+	<name>TREC ROBUST 2022</name>
+	<description>It is an assessments campaign</description>
+    <abbreviate_instructions_words>Assess words in snippet/document</abbreviate_instructions_words>
+    <abbreviate_instructions_global>Assess snippet/document in its globality</abbreviate_instructions_global>
+    <detailed_instructions_URL>www.TRECROBUST2022detailedinstructions.com</detailed_instructions_URL>
+</campaign>

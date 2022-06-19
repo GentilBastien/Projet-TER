@@ -1,0 +1,110 @@
+:root {
+  /* alternatives à la size par défaut définie à 24 */
+  --font-size-btn: 18px;
+  --font-size-txt: 32px;
+  --font-size-title: 36px;
+  --font-family: "Roboto";
+  --col-red: #ff6a6a;
+  --col-green: #72bda3;
+  --col-red-transp: rgba(255, 106, 106, 0.1);
+  --col-green-transp: rgba(114, 189, 163, 0.1);
+}
+
+.encart {
+  position: absolute;
+  background: #ffffff;
+  box-shadow: 0px 0px 40px -11px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+span {
+  position: absolute;
+  font-family: var(--font-family);
+  font-style: normal;
+  font-size: var(--font-size, 24px);
+  letter-spacing: -0.05em;
+}
+
+#spanlogoff {
+  top: 24px;
+  left: 16px;
+}
+
+.btn {
+  position: absolute;
+  height: 60px;
+  
+  /* on colle l'image à gauche */
+  text-align: left;
+  padding-left: 10px;
+
+  background: var(--col-bg);
+  border: 1px solid var(--col-border);
+  border-radius: 14px;
+}
+
+.redbtn {
+  --col-bg: var(--col-red-transp);
+  --col-border: var(--col-red);
+  width: 161px;
+  right: 10px;
+  top: 10px;
+}
+
+.greenbtn {
+  --col-bg: var(--col-green-transp);
+  --col-border: var(--col-green);
+  width: 190px;
+  left: 1709px;
+  top: 1007px;
+}
+
+b.bold {
+  font-weight: 600;
+}
+
+b.black {
+  font-weight: 900;
+}
+
+.btn img {
+  mix-blend-mode: color-burn;
+  opacity: 0.6;
+}
+
+.btn span {
+  top: 20px;
+  left: 50px;
+  font-weight: 600;
+  color: var(--col-fg);
+  --font-size: var(--font-size-btn);
+}
+
+.redbtn span {
+  --col-fg: var(--col-red);
+}
+
+.greenbtn span {
+  --col-fg: var(--col-green);
+}
+
+#info {
+  width: 634px;
+  height: 339px;
+  left: 20px;
+  top: 20px;
+}
+
+#content {
+  width: 1880px;
+  height: 618px;
+  left: 20px;
+  top: 379px;
+}
+
+#logoff {
+  width: 561px;
+  height: 80px;
+  left: 1339px;
+  top: 20px;
+}

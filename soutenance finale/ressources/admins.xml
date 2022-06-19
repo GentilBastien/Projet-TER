@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<admins>
+	<admin id="Alexandra" password="01378"/>
+    <admin id="Natasha" password="456378"/>
+    <admin id="Lila" password="678912"/>
+    <admin id="Florence" password="4868"/>
+    <admin id="Amelie" password="975646"/>
+    <admin id="Joshua" password="100548"/>
+</admins>

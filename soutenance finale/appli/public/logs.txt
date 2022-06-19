@@ -1,0 +1,957 @@
+[06-08-2022_08-02-23]Error : file_get_contents(C:/Users/Bastien GATTACIECCA/Desktop/Projet TER/relevelance/ressources/documents/doc123.txt): Failed to open stream: No such file or directory
+[06-08-2022_08-06-18]Error : file_get_contents(relevelance/ressources/documents/doc123.txt): Failed to open stream: No such file or directory
+[06-08-2022_08-08-45]Error : SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: assignations.id (SQL: insert into "assignations" ("id", "expert_id", "topic_id", "document_id", "is_completed") values (9223372036854775807, Nathaniel, 003, 456, 0))
+[06-08-2022_08-18-26]Error : SQLSTATE[HY000]: General error: 1 no such table: campaigns (SQL: insert into "campaigns" ("id", "activated", "target", "type", "name", "description", "abbreviate_instructions_words", "abbreviate_instructions_global", "detailed_instructions_URL") values (mycampaign, 1, documents, globalwords, TREC ROBUST 2022, It is an assessments campaign, Assess words in snippet/document, Assess snippet/document in its globality, www.TRECROBUST2022detailedinstructions.com))
+[06-08-2022_08-19-04]Error : Undefined variable $snippet_data
+[06-08-2022_08-19-47]Error : SQLSTATE[HY000]: General error: 1 no such table: global_tags (SQL: select min("value") as aggregate from "global_tags")
+[06-08-2022_08-26-13]Error : SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: assignations.id (SQL: insert into "assignations" ("id", "expert_id", "topic_id", "document_id", "is_completed") values (9223372036854775807, Nathaniel, 003, 456, 0))
+[06-08-2022_08-31-09]Error : SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: assignations.id (SQL: insert into "assignations" ("id", "expert_id", "topic_id", "document_id", "is_completed") values (9223372036854775807, Nathaniel, 003, 456, 0))
+[06-08-2022_09-13-54]Error : SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: assignations.id (SQL: insert into "assignations" ("id", "expert_id", "topic_id", "document_id", "is_completed") values (9223372036854775807, Nathaniel, 003, 456, 0))
+[06-08-2022_09-14-23]Error : SQLSTATE[HY000]: General error: 20 datatype mismatch (SQL: insert into "assignations" ("id", "expert_id", "topic_id", "document_id", "is_completed") values (74117108105101116116101005582
+, Juliette, 005, 582
+, 0))
+[06-08-2022_09-16-39]Error : SQLSTATE[HY000]: General error: 20 datatype mismatch (SQL: insert into "assignations" ("id", "expert_id", "topic_id", "document_id", "is_completed") values (6097177066.2371, Farid, 002, 582
+, 0))
+[06-08-2022_09-26-13]{"global":2, "words":{"2":2}}
+[06-08-2022_09-26-13]2 => 2
+[06-08-2022_09-37-05]{"global":2, "words":{"253":1,"517":2,"520":2,"521":2,"555":2}}
+[06-08-2022_09-37-05]253 => 1
+[06-08-2022_09-37-05]517 => 2
+[06-08-2022_09-37-05]520 => 2
+[06-08-2022_09-37-05]521 => 2
+[06-08-2022_09-37-05]555 => 2
+[06-08-2022_09-37-14]{"global":2, "words":{"2":0,"5":0}}
+[06-08-2022_09-37-14]2 => 0
+[06-08-2022_09-37-14]5 => 0
+[06-09-2022_02-57-20]
+[06-09-2022_02-57-20]
+[06-09-2022_02-57-20]
+[06-09-2022_02-57-20]
+[06-09-2022_02-57-20]
+[06-09-2022_03-07-11]
+[06-09-2022_03-07-11]
+[06-09-2022_03-07-11]
+[06-09-2022_03-07-11]
+[06-09-2022_03-07-11]
+[06-09-2022_03-08-22]Running can significantly improve physical and mental health. As a form of aerobic exercise, running can reduce stress, improve heart health, ...
+[06-09-2022_03-08-22]Health benefits of running and jogging help to build strong bones, as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn ...
+[06-09-2022_03-08-22]Une automobile (simplification historique de l'expression « voiture légère automobile ») est un véhicule à roues, motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés. La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage. Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle.
+[06-09-2022_03-08-22]Le Japon forme, depuis 1945, un archipel de 6 852 îles (de plus de 100 m2), dont les quatre plus grandes sont Hokkaidō, Honshū, Shikoku et Kyūshū, représentant à elles seules 95 % de la superficie terrestre du pays. L'archipel s'étend sur plus de trois mille kilomètres.
+[06-09-2022_03-08-22]Le fromage est un aliment obtenu à partir de lait coagulé, de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème. Le fromage est fabriqué à partir de lait de vache principalement, mais aussi de brebis, de chèvre, de bufflonne ainsi qu'occasionnellement de chamelle, de renne, d'élan, de jument
+[06-09-2022_03-08-22]Running can significantly improve physical and mental health. As a form of aerobic exercise, running can reduce stress, improve heart health, ...
+[06-09-2022_03-08-22]
+[06-09-2022_03-08-22]Health benefits of running and jogging help to build strong bones, as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn ...
+[06-09-2022_03-08-22]
+[06-09-2022_03-08-22]Une automobile (simplification historique de l'expression « voiture légère automobile ») est un véhicule à roues, motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés. La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage. Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle.
+[06-09-2022_03-08-22]
+[06-09-2022_03-08-22]Le Japon forme, depuis 1945, un archipel de 6 852 îles (de plus de 100 m2), dont les quatre plus grandes sont Hokkaidō, Honshū, Shikoku et Kyūshū, représentant à elles seules 95 % de la superficie terrestre du pays. L'archipel s'étend sur plus de trois mille kilomètres.
+[06-09-2022_03-08-22]
+[06-09-2022_03-08-22]Le fromage est un aliment obtenu à partir de lait coagulé, de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème. Le fromage est fabriqué à partir de lait de vache principalement, mais aussi de brebis, de chèvre, de bufflonne ainsi qu'occasionnellement de chamelle, de renne, d'élan, de jument
+[06-09-2022_03-08-22]
+[06-09-2022_03-11-04]annotable has been set
+[06-09-2022_03-11-04]
+[06-09-2022_03-11-04]annotable has been set
+[06-09-2022_03-11-04]
+[06-09-2022_03-11-04]annotable has been set
+[06-09-2022_03-11-04]
+[06-09-2022_03-11-04]annotable has been set
+[06-09-2022_03-11-04]
+[06-09-2022_03-11-04]annotable has been set
+[06-09-2022_03-11-04]
+[06-09-2022_03-11-07]annotable has been set
+[06-09-2022_03-11-07]
+[06-09-2022_03-11-07]annotable has been set
+[06-09-2022_03-11-07]
+[06-09-2022_03-11-07]annotable has been set
+[06-09-2022_03-11-07]
+[06-09-2022_03-11-07]annotable has been set
+[06-09-2022_03-11-07]
+[06-09-2022_03-11-07]annotable has been set
+[06-09-2022_03-11-07]
+[06-09-2022_03-38-23]annotable has been set
+[06-09-2022_03-38-37]annotable has been set
+[06-09-2022_03-38-37]annotable 
+[06-09-2022_03-38-37]
+[06-09-2022_03-38-37]annotable has been set
+[06-09-2022_03-38-37]annotable 
+[06-09-2022_03-38-37]
+[06-09-2022_03-38-37]annotable has been set
+[06-09-2022_03-38-37]annotable 
+[06-09-2022_03-38-37]
+[06-09-2022_03-38-37]annotable has been set
+[06-09-2022_03-38-37]annotable 
+[06-09-2022_03-38-37]
+[06-09-2022_03-38-37]annotable has been set
+[06-09-2022_03-38-37]annotable 
+[06-09-2022_03-38-37]
+[06-09-2022_03-48-10]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-09-2022_03-48-10]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-09-2022_03-48-10]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-09-2022_03-48-11]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-09-2022_03-48-11]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-17-41]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-17-41]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-17-41]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-17-41]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-17-41]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-23-50]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-23-50]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-23-50]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-23-51]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-23-51]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-26-16]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-26-17]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-26-17]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-26-17]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-26-17]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-28-10]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-28-10]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-28-10]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-28-10]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-28-10]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-28-22]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-28-22]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-28-22]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-28-23]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-28-23]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-30-39]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-30-39]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-30-39]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-30-40]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-30-40]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-31-26]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-31-26]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-31-26]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-31-26]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-31-26]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-31-35]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-31-35]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-31-35]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-31-35]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-31-35]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-31-55]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-31-55]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-31-55]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-31-55]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-31-55]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-32-13]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-32-13]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-32-13]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-32-13]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-32-14]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-35-46]
+[06-10-2022_09-35-46]
+[06-10-2022_09-35-46]
+[06-10-2022_09-35-46]
+[06-10-2022_09-35-46]
+[06-10-2022_09-36-27]
+[06-10-2022_09-36-27]
+[06-10-2022_09-36-27]
+[06-10-2022_09-36-27]
+[06-10-2022_09-36-27]
+[06-10-2022_09-36-28]
+[06-10-2022_09-36-28]
+[06-10-2022_09-36-28]
+[06-10-2022_09-36-28]
+[06-10-2022_09-36-28]
+[06-10-2022_09-36-56]
+[06-10-2022_09-36-56]
+[06-10-2022_09-36-56]
+[06-10-2022_09-36-56]
+[06-10-2022_09-36-56]
+[06-10-2022_09-37-15]
+[06-10-2022_09-37-15]
+[06-10-2022_09-37-15]
+[06-10-2022_09-37-15]
+[06-10-2022_09-37-15]
+[06-10-2022_09-46-06]
+[06-10-2022_09-46-06]
+[06-10-2022_09-46-06]
+[06-10-2022_09-46-06]
+[06-10-2022_09-46-06]
+[06-10-2022_09-46-54]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-46-54]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-46-54]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-46-54]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-46-54]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-47-09]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-47-09]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-47-09]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-47-10]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-47-10]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-47-20]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_09-47-21]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_09-47-21]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_09-47-21]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_09-47-21]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_09-50-13]Error : Undefined variable $assessment
+[06-10-2022_09-51-07]
+[06-10-2022_09-51-07]
+[06-10-2022_09-51-07]
+[06-10-2022_09-51-07]
+[06-10-2022_09-51-07]
+[06-10-2022_09-55-12]
+[06-10-2022_09-55-12]
+[06-10-2022_09-55-12]
+[06-10-2022_09-55-12]
+[06-10-2022_09-55-12]
+[06-10-2022_09-59-40]
+[06-10-2022_09-59-40]
+[06-10-2022_09-59-40]
+[06-10-2022_09-59-40]
+[06-10-2022_09-59-40]
+[06-10-2022_10-12-47]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_10-12-48]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_10-12-48]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_10-12-48]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_10-12-48]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_10-13-49]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_10-13-49]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_10-13-49]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_10-13-49]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_10-13-49]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_10-21-10]
+[06-10-2022_10-21-10]
+[06-10-2022_10-21-10]
+[06-10-2022_10-21-10]
+[06-10-2022_10-21-10]
+[06-10-2022_10-21-35]
+[06-10-2022_10-21-35]
+[06-10-2022_10-21-35]
+[06-10-2022_10-21-35]
+[06-10-2022_10-21-35]
+azeazeazeaze[06-10-2022_10-26-44]Running can significantly improve physical and mental health.
+As a form of aerobic exercise, running can reduce stress, improve heart health, and even help alleviate symptoms of depression.
+Some researchers think running may be so good for us because it's something we evolved to do.
+People are built to run.
+
+Many experts think human bodies are shaped the way they are because we evolved to be extremely effective endurance runners. The shapes of our hips and feet, the length of our legs, our shock-absorbing spinal discs, and our ability to sweat make it possible for us to run mile after mile.
+
+So it's perhaps no surprise that running is strongly associated with a number of benefits for our bodies and brains.
+
+Many experts consider exercise to be the closest thing to a miracle drug. As a form of cardio exercise that's easily accessible, running is one of the most straightforward ways to get the important benefits of exercise.
+
+Since it improves aerobic fitness, running is a great way to help improve cardiovascular health. Plus, it burns calories and can build strength, among other things. There's also a long list of psychological benefits runners gain from their sport.
+
+Getting used to running, if you haven't done it in a while or ever, can be brutal.
+
+But once your body and mind start to acclimate, running can be blissful, meditative, and provide a sense of freedom. As someone who recently completed his first half-marathon, I can confirm that's true. One piece of advice from several experienced runners made a big difference during my race: remember that you're running to have fun.
+
+These are some of the physical and mental health benefits of running.
+[06-10-2022_10-26-44]Running and jogging - health benefits
+
+Summary
+Read the full fact sheet
+Both running and jogging are forms of aerobic exercise.
+A beginner to exercise should start with brisk walking, progress to jogging and work up to running.
+See your doctor for a check-up before starting a running program.
+
+On this page
+Health benefits of running and jogging
+Running versus jogging
+Goal setting for running and jogging
+Running and jogging for beginners
+Choosing running and jogging shoes
+Health and safety suggestions with running and jogging
+Where to get help
+ 
+ 
+
+Jogging or running is a popular form of physical activity. About one in five Australians try running (or jogging) at some stage in their life. Running is an appealing exercise because it doesn't cost a lot to take part and you can run at any time that suits you.
+
+Some runners choose to participate in fun runs, athletics races or marathons. If you are interested in competing with other runners, contact your local running club.
+
+Health benefits of running and jogging
+Regular running or jogging offers many health benefits. Running can:
+
+help to build strong bones, as it is a weight bearing exercise
+strengthen muscles
+improve cardiovascular fitness
+burn plenty of kilojoules
+help maintain a healthy weight.
+Running versus jogging
+The difference between running and jogging is intensity. Running is faster, uses more kilojoules and demands more effort from the heart, lungs and muscles than jogging. Running requires a higher level of overall fitness than jogging.
+
+Both running and jogging are forms of aerobic exercise. Aerobic means 'with oxygen' – the term 'aerobic exercise' means any physical activity that produces energy by combining oxygen with blood glucose or body fat.
+
+Goal setting for running and jogging
+Think about what you want to achieve from running or jogging. Issues to consider may include:
+
+Getting fit – if you're a beginner, you should start with brisk walking, progress to jogging and work up to running. This should take a few months.
+General fitness – mix your running with other forms of exercise (such as swimming or team sports) to maximise your overall fitness.
+Weight loss – adjust your diet to include plenty of fresh fruits and vegetables, lean meats, wholegrain cereals and low-fat dairy products. Cut back on dietary fats, takeaway foods, soft drinks and sugar.
+Companionship – you could run with a friend or join a local running club.
+Competition – running clubs may offer competitive events. Most clubs have sessions designed for beginners through to advanced runners. You can pit your running skills against others in fun runs or marathons. Many community-based running events cater for people of all ages and abilities. Join a local orienteering club to combine running with the challenge of navigating through various environments.
+Running and jogging for beginners
+Some general tips for beginners:
+
+See your doctor for a check-up before you start a running program. This is especially important if you are over 40 years, are overweight, have a chronic illness or haven't exercised in a long time.
+Pre-exercise screening is used to identify people with medical conditions that may put them at a higher risk of a experiencing a health problem during physical activity. It is a filter or ‘safety net’ to help decide if the potential benefits of exercise outweigh the risks for you. Print a copy of the pre-exercise screening tool and discuss it with your doctor or exercise professional.
+Start with brisk walking. Aim for 30 minutes per session. Allow a minimum of six weeks to build up to regular running. Aim to increase your jogging time each session, and alternate between walking and jogging.
+Make sure you warm up and stretch thoroughly before you head out. Cool your body down with light stretches when you return.
+Make sure you have plenty of fluids and take a water bottle with you on your run. Try to drink plenty of water before, during and after any activity.
+Allow at least two complete rest days per week to avoid overtraining, which may cause injury. Consider other low impact activities, such as swimming, at least once each week.
+Plan your route. If possible, choose flat, grassy areas rather than hard or loose (such as sandy) surfaces to reduce the risk of injury.
+Avoid running near roads. This is especially important if you have a pre-existing condition such as asthma. Vehicle exhaust fumes can increase your risk of various cardiovascular and respiratory complaints or illnesses.
+Avoid the 'peak hour' periods to reduce your risk of inhaling air pollution from motor vehicles. If possible, schedule your runs for either the early morning or the evening.
+Wear loose cotton clothing. Dress your upper body in layers of clothing so that you can take off layers as required.
+Apply SPF 50+ sunscreen to exposed skin areas.
+Buy an appropriate pair of shoes.
+Choosing running and jogging shoes
+Issues to consider when choosing running shoes include:
+
+Don't wear your old sneakers. Poorly fitted shoes are a common cause of injuries.
+The running shoe should bend easily, feel comfortable and have a wedge of shock-absorbing material in the heel.
+The fit should not be too snug. Your foot will splay as it impacts with the ground.
+When buying the shoes, wear the socks you intend to wear while running.
+Have your shoes professionally fitted.
+Health and safety suggestions with running and jogging
+Suggestions include:
+
+Make sure you eat a healthy, well-balanced diet.
+Avoid eating directly before going for a run.
+Avoid running during the hottest part of the day in summer.
+Drink plenty of water before, during and after your run.
+Take your mobile phone with you.
+If using an iPod or headset, do not have the music too loud – stay alert and aware.
+Wear reflective materials if you're running in the early morning or at night.
+Tell someone where you plan to run and when you think you'll be back.
+Choose well-lit, populated routes and avoid dangerous and isolated areas.
+If you injure yourself while running, stop immediately. Seek medical advice.
+Where to get help
+Your doctor
+Always call triple zero for an ambulance in an emergency Tel. 000
+Physiotherapist
+Sports shoe store
+Local council
+Local running club
+Victorian Orienteering Association Tel. (03) 8846 4140
+Smartplay Tel. (03) 9674 8777
+[06-10-2022_10-26-44]Running and jogging - health benefits
+
+Summary
+Read the full fact sheet
+Both running and jogging are forms of aerobic exercise.
+A beginner to exercise should start with brisk walking, progress to jogging and work up to running.
+See your doctor for a check-up before starting a running program.
+
+On this page
+Health benefits of running and jogging
+Running versus jogging
+Goal setting for running and jogging
+Running and jogging for beginners
+Choosing running and jogging shoes
+Health and safety suggestions with running and jogging
+Where to get help
+ 
+ 
+
+Jogging or running is a popular form of physical activity. About one in five Australians try running (or jogging) at some stage in their life. Running is an appealing exercise because it doesn't cost a lot to take part and you can run at any time that suits you.
+
+Some runners choose to participate in fun runs, athletics races or marathons. If you are interested in competing with other runners, contact your local running club.
+
+Health benefits of running and jogging
+Regular running or jogging offers many health benefits. Running can:
+
+help to build strong bones, as it is a weight bearing exercise
+strengthen muscles
+improve cardiovascular fitness
+burn plenty of kilojoules
+help maintain a healthy weight.
+Running versus jogging
+The difference between running and jogging is intensity. Running is faster, uses more kilojoules and demands more effort from the heart, lungs and muscles than jogging. Running requires a higher level of overall fitness than jogging.
+
+Both running and jogging are forms of aerobic exercise. Aerobic means 'with oxygen' – the term 'aerobic exercise' means any physical activity that produces energy by combining oxygen with blood glucose or body fat.
+
+Goal setting for running and jogging
+Think about what you want to achieve from running or jogging. Issues to consider may include:
+
+Getting fit – if you're a beginner, you should start with brisk walking, progress to jogging and work up to running. This should take a few months.
+General fitness – mix your running with other forms of exercise (such as swimming or team sports) to maximise your overall fitness.
+Weight loss – adjust your diet to include plenty of fresh fruits and vegetables, lean meats, wholegrain cereals and low-fat dairy products. Cut back on dietary fats, takeaway foods, soft drinks and sugar.
+Companionship – you could run with a friend or join a local running club.
+Competition – running clubs may offer competitive events. Most clubs have sessions designed for beginners through to advanced runners. You can pit your running skills against others in fun runs or marathons. Many community-based running events cater for people of all ages and abilities. Join a local orienteering club to combine running with the challenge of navigating through various environments.
+Running and jogging for beginners
+Some general tips for beginners:
+
+See your doctor for a check-up before you start a running program. This is especially important if you are over 40 years, are overweight, have a chronic illness or haven't exercised in a long time.
+Pre-exercise screening is used to identify people with medical conditions that may put them at a higher risk of a experiencing a health problem during physical activity. It is a filter or ‘safety net’ to help decide if the potential benefits of exercise outweigh the risks for you. Print a copy of the pre-exercise screening tool and discuss it with your doctor or exercise professional.
+Start with brisk walking. Aim for 30 minutes per session. Allow a minimum of six weeks to build up to regular running. Aim to increase your jogging time each session, and alternate between walking and jogging.
+Make sure you warm up and stretch thoroughly before you head out. Cool your body down with light stretches when you return.
+Make sure you have plenty of fluids and take a water bottle with you on your run. Try to drink plenty of water before, during and after any activity.
+Allow at least two complete rest days per week to avoid overtraining, which may cause injury. Consider other low impact activities, such as swimming, at least once each week.
+Plan your route. If possible, choose flat, grassy areas rather than hard or loose (such as sandy) surfaces to reduce the risk of injury.
+Avoid running near roads. This is especially important if you have a pre-existing condition such as asthma. Vehicle exhaust fumes can increase your risk of various cardiovascular and respiratory complaints or illnesses.
+Avoid the 'peak hour' periods to reduce your risk of inhaling air pollution from motor vehicles. If possible, schedule your runs for either the early morning or the evening.
+Wear loose cotton clothing. Dress your upper body in layers of clothing so that you can take off layers as required.
+Apply SPF 50+ sunscreen to exposed skin areas.
+Buy an appropriate pair of shoes.
+Choosing running and jogging shoes
+Issues to consider when choosing running shoes include:
+
+Don't wear your old sneakers. Poorly fitted shoes are a common cause of injuries.
+The running shoe should bend easily, feel comfortable and have a wedge of shock-absorbing material in the heel.
+The fit should not be too snug. Your foot will splay as it impacts with the ground.
+When buying the shoes, wear the socks you intend to wear while running.
+Have your shoes professionally fitted.
+Health and safety suggestions with running and jogging
+Suggestions include:
+
+Make sure you eat a healthy, well-balanced diet.
+Avoid eating directly before going for a run.
+Avoid running during the hottest part of the day in summer.
+Drink plenty of water before, during and after your run.
+Take your mobile phone with you.
+If using an iPod or headset, do not have the music too loud – stay alert and aware.
+Wear reflective materials if you're running in the early morning or at night.
+Tell someone where you plan to run and when you think you'll be back.
+Choose well-lit, populated routes and avoid dangerous and isolated areas.
+If you injure yourself while running, stop immediately. Seek medical advice.
+Where to get help
+Your doctor
+Always call triple zero for an ambulance in an emergency Tel. 000
+Physiotherapist
+Sports shoe store
+Local council
+Local running club
+Victorian Orienteering Association Tel. (03) 8846 4140
+Smartplay Tel. (03) 9674 8777
+[06-10-2022_10-26-44]Running and jogging - health benefits
+
+Summary
+Read the full fact sheet
+Both running and jogging are forms of aerobic exercise.
+A beginner to exercise should start with brisk walking, progress to jogging and work up to running.
+See your doctor for a check-up before starting a running program.
+
+On this page
+Health benefits of running and jogging
+Running versus jogging
+Goal setting for running and jogging
+Running and jogging for beginners
+Choosing running and jogging shoes
+Health and safety suggestions with running and jogging
+Where to get help
+ 
+ 
+
+Jogging or running is a popular form of physical activity. About one in five Australians try running (or jogging) at some stage in their life. Running is an appealing exercise because it doesn't cost a lot to take part and you can run at any time that suits you.
+
+Some runners choose to participate in fun runs, athletics races or marathons. If you are interested in competing with other runners, contact your local running club.
+
+Health benefits of running and jogging
+Regular running or jogging offers many health benefits. Running can:
+
+help to build strong bones, as it is a weight bearing exercise
+strengthen muscles
+improve cardiovascular fitness
+burn plenty of kilojoules
+help maintain a healthy weight.
+Running versus jogging
+The difference between running and jogging is intensity. Running is faster, uses more kilojoules and demands more effort from the heart, lungs and muscles than jogging. Running requires a higher level of overall fitness than jogging.
+
+Both running and jogging are forms of aerobic exercise. Aerobic means 'with oxygen' – the term 'aerobic exercise' means any physical activity that produces energy by combining oxygen with blood glucose or body fat.
+
+Goal setting for running and jogging
+Think about what you want to achieve from running or jogging. Issues to consider may include:
+
+Getting fit – if you're a beginner, you should start with brisk walking, progress to jogging and work up to running. This should take a few months.
+General fitness – mix your running with other forms of exercise (such as swimming or team sports) to maximise your overall fitness.
+Weight loss – adjust your diet to include plenty of fresh fruits and vegetables, lean meats, wholegrain cereals and low-fat dairy products. Cut back on dietary fats, takeaway foods, soft drinks and sugar.
+Companionship – you could run with a friend or join a local running club.
+Competition – running clubs may offer competitive events. Most clubs have sessions designed for beginners through to advanced runners. You can pit your running skills against others in fun runs or marathons. Many community-based running events cater for people of all ages and abilities. Join a local orienteering club to combine running with the challenge of navigating through various environments.
+Running and jogging for beginners
+Some general tips for beginners:
+
+See your doctor for a check-up before you start a running program. This is especially important if you are over 40 years, are overweight, have a chronic illness or haven't exercised in a long time.
+Pre-exercise screening is used to identify people with medical conditions that may put them at a higher risk of a experiencing a health problem during physical activity. It is a filter or ‘safety net’ to help decide if the potential benefits of exercise outweigh the risks for you. Print a copy of the pre-exercise screening tool and discuss it with your doctor or exercise professional.
+Start with brisk walking. Aim for 30 minutes per session. Allow a minimum of six weeks to build up to regular running. Aim to increase your jogging time each session, and alternate between walking and jogging.
+Make sure you warm up and stretch thoroughly before you head out. Cool your body down with light stretches when you return.
+Make sure you have plenty of fluids and take a water bottle with you on your run. Try to drink plenty of water before, during and after any activity.
+Allow at least two complete rest days per week to avoid overtraining, which may cause injury. Consider other low impact activities, such as swimming, at least once each week.
+Plan your route. If possible, choose flat, grassy areas rather than hard or loose (such as sandy) surfaces to reduce the risk of injury.
+Avoid running near roads. This is especially important if you have a pre-existing condition such as asthma. Vehicle exhaust fumes can increase your risk of various cardiovascular and respiratory complaints or illnesses.
+Avoid the 'peak hour' periods to reduce your risk of inhaling air pollution from motor vehicles. If possible, schedule your runs for either the early morning or the evening.
+Wear loose cotton clothing. Dress your upper body in layers of clothing so that you can take off layers as required.
+Apply SPF 50+ sunscreen to exposed skin areas.
+Buy an appropriate pair of shoes.
+Choosing running and jogging shoes
+Issues to consider when choosing running shoes include:
+
+Don't wear your old sneakers. Poorly fitted shoes are a common cause of injuries.
+The running shoe should bend easily, feel comfortable and have a wedge of shock-absorbing material in the heel.
+The fit should not be too snug. Your foot will splay as it impacts with the ground.
+When buying the shoes, wear the socks you intend to wear while running.
+Have your shoes professionally fitted.
+Health and safety suggestions with running and jogging
+Suggestions include:
+
+Make sure you eat a healthy, well-balanced diet.
+Avoid eating directly before going for a run.
+Avoid running during the hottest part of the day in summer.
+Drink plenty of water before, during and after your run.
+Take your mobile phone with you.
+If using an iPod or headset, do not have the music too loud – stay alert and aware.
+Wear reflective materials if you're running in the early morning or at night.
+Tell someone where you plan to run and when you think you'll be back.
+Choose well-lit, populated routes and avoid dangerous and isolated areas.
+If you injure yourself while running, stop immediately. Seek medical advice.
+Where to get help
+Your doctor
+Always call triple zero for an ambulance in an emergency Tel. 000
+Physiotherapist
+Sports shoe store
+Local council
+Local running club
+Victorian Orienteering Association Tel. (03) 8846 4140
+Smartplay Tel. (03) 9674 8777
+[06-10-2022_10-26-44]Running can significantly improve physical and mental health.
+As a form of aerobic exercise, running can reduce stress, improve heart health, and even help alleviate symptoms of depression.
+Some researchers think running may be so good for us because it's something we evolved to do.
+People are built to run.
+
+Many experts think human bodies are shaped the way they are because we evolved to be extremely effective endurance runners. The shapes of our hips and feet, the length of our legs, our shock-absorbing spinal discs, and our ability to sweat make it possible for us to run mile after mile.
+
+So it's perhaps no surprise that running is strongly associated with a number of benefits for our bodies and brains.
+
+Many experts consider exercise to be the closest thing to a miracle drug. As a form of cardio exercise that's easily accessible, running is one of the most straightforward ways to get the important benefits of exercise.
+
+Since it improves aerobic fitness, running is a great way to help improve cardiovascular health. Plus, it burns calories and can build strength, among other things. There's also a long list of psychological benefits runners gain from their sport.
+
+Getting used to running, if you haven't done it in a while or ever, can be brutal.
+
+But once your body and mind start to acclimate, running can be blissful, meditative, and provide a sense of freedom. As someone who recently completed his first half-marathon, I can confirm that's true. One piece of advice from several experienced runners made a big difference during my race: remember that you're running to have fun.
+
+These are some of the physical and mental health benefits of running.
+[06-10-2022_10-26-44]Running can significantly improve physical and mental health.
+As a form of aerobic exercise, running can reduce stress, improve heart health, and even help alleviate symptoms of depression.
+Some researchers think running may be so good for us because it's something we evolved to do.
+People are built to run.
+
+Many experts think human bodies are shaped the way they are because we evolved to be extremely effective endurance runners. The shapes of our hips and feet, the length of our legs, our shock-absorbing spinal discs, and our ability to sweat make it possible for us to run mile after mile.
+
+So it's perhaps no surprise that running is strongly associated with a number of benefits for our bodies and brains.
+
+Many experts consider exercise to be the closest thing to a miracle drug. As a form of cardio exercise that's easily accessible, running is one of the most straightforward ways to get the important benefits of exercise.
+
+Since it improves aerobic fitness, running is a great way to help improve cardiovascular health. Plus, it burns calories and can build strength, among other things. There's also a long list of psychological benefits runners gain from their sport.
+
+Getting used to running, if you haven't done it in a while or ever, can be brutal.
+
+But once your body and mind start to acclimate, running can be blissful, meditative, and provide a sense of freedom. As someone who recently completed his first half-marathon, I can confirm that's true. One piece of advice from several experienced runners made a big difference during my race: remember that you're running to have fun.
+
+These are some of the physical and mental health benefits of running.
+[06-10-2022_10-26-44]
+[06-10-2022_10-26-44]Running can significantly improve physical and mental health.
+As a form of aerobic exercise, running can reduce stress, improve heart health, and even help alleviate symptoms of depression.
+Some researchers think running may be so good for us because it's something we evolved to do.
+People are built to run.
+
+Many experts think human bodies are shaped the way they are because we evolved to be extremely effective endurance runners. The shapes of our hips and feet, the length of our legs, our shock-absorbing spinal discs, and our ability to sweat make it possible for us to run mile after mile.
+
+So it's perhaps no surprise that running is strongly associated with a number of benefits for our bodies and brains.
+
+Many experts consider exercise to be the closest thing to a miracle drug. As a form of cardio exercise that's easily accessible, running is one of the most straightforward ways to get the important benefits of exercise.
+
+Since it improves aerobic fitness, running is a great way to help improve cardiovascular health. Plus, it burns calories and can build strength, among other things. There's also a long list of psychological benefits runners gain from their sport.
+
+Getting used to running, if you haven't done it in a while or ever, can be brutal.
+
+But once your body and mind start to acclimate, running can be blissful, meditative, and provide a sense of freedom. As someone who recently completed his first half-marathon, I can confirm that's true. One piece of advice from several experienced runners made a big difference during my race: remember that you're running to have fun.
+
+These are some of the physical and mental health benefits of running.
+[06-10-2022_10-26-44]
+[06-10-2022_10-26-44]Running and jogging - health benefits
+
+Summary
+Read the full fact sheet
+Both running and jogging are forms of aerobic exercise.
+A beginner to exercise should start with brisk walking, progress to jogging and work up to running.
+See your doctor for a check-up before starting a running program.
+
+On this page
+Health benefits of running and jogging
+Running versus jogging
+Goal setting for running and jogging
+Running and jogging for beginners
+Choosing running and jogging shoes
+Health and safety suggestions with running and jogging
+Where to get help
+ 
+ 
+
+Jogging or running is a popular form of physical activity. About one in five Australians try running (or jogging) at some stage in their life. Running is an appealing exercise because it doesn't cost a lot to take part and you can run at any time that suits you.
+
+Some runners choose to participate in fun runs, athletics races or marathons. If you are interested in competing with other runners, contact your local running club.
+
+Health benefits of running and jogging
+Regular running or jogging offers many health benefits. Running can:
+
+help to build strong bones, as it is a weight bearing exercise
+strengthen muscles
+improve cardiovascular fitness
+burn plenty of kilojoules
+help maintain a healthy weight.
+Running versus jogging
+The difference between running and jogging is intensity. Running is faster, uses more kilojoules and demands more effort from the heart, lungs and muscles than jogging. Running requires a higher level of overall fitness than jogging.
+
+Both running and jogging are forms of aerobic exercise. Aerobic means 'with oxygen' – the term 'aerobic exercise' means any physical activity that produces energy by combining oxygen with blood glucose or body fat.
+
+Goal setting for running and jogging
+Think about what you want to achieve from running or jogging. Issues to consider may include:
+
+Getting fit – if you're a beginner, you should start with brisk walking, progress to jogging and work up to running. This should take a few months.
+General fitness – mix your running with other forms of exercise (such as swimming or team sports) to maximise your overall fitness.
+Weight loss – adjust your diet to include plenty of fresh fruits and vegetables, lean meats, wholegrain cereals and low-fat dairy products. Cut back on dietary fats, takeaway foods, soft drinks and sugar.
+Companionship – you could run with a friend or join a local running club.
+Competition – running clubs may offer competitive events. Most clubs have sessions designed for beginners through to advanced runners. You can pit your running skills against others in fun runs or marathons. Many community-based running events cater for people of all ages and abilities. Join a local orienteering club to combine running with the challenge of navigating through various environments.
+Running and jogging for beginners
+Some general tips for beginners:
+
+See your doctor for a check-up before you start a running program. This is especially important if you are over 40 years, are overweight, have a chronic illness or haven't exercised in a long time.
+Pre-exercise screening is used to identify people with medical conditions that may put them at a higher risk of a experiencing a health problem during physical activity. It is a filter or ‘safety net’ to help decide if the potential benefits of exercise outweigh the risks for you. Print a copy of the pre-exercise screening tool and discuss it with your doctor or exercise professional.
+Start with brisk walking. Aim for 30 minutes per session. Allow a minimum of six weeks to build up to regular running. Aim to increase your jogging time each session, and alternate between walking and jogging.
+Make sure you warm up and stretch thoroughly before you head out. Cool your body down with light stretches when you return.
+Make sure you have plenty of fluids and take a water bottle with you on your run. Try to drink plenty of water before, during and after any activity.
+Allow at least two complete rest days per week to avoid overtraining, which may cause injury. Consider other low impact activities, such as swimming, at least once each week.
+Plan your route. If possible, choose flat, grassy areas rather than hard or loose (such as sandy) surfaces to reduce the risk of injury.
+Avoid running near roads. This is especially important if you have a pre-existing condition such as asthma. Vehicle exhaust fumes can increase your risk of various cardiovascular and respiratory complaints or illnesses.
+Avoid the 'peak hour' periods to reduce your risk of inhaling air pollution from motor vehicles. If possible, schedule your runs for either the early morning or the evening.
+Wear loose cotton clothing. Dress your upper body in layers of clothing so that you can take off layers as required.
+Apply SPF 50+ sunscreen to exposed skin areas.
+Buy an appropriate pair of shoes.
+Choosing running and jogging shoes
+Issues to consider when choosing running shoes include:
+
+Don't wear your old sneakers. Poorly fitted shoes are a common cause of injuries.
+The running shoe should bend easily, feel comfortable and have a wedge of shock-absorbing material in the heel.
+The fit should not be too snug. Your foot will splay as it impacts with the ground.
+When buying the shoes, wear the socks you intend to wear while running.
+Have your shoes professionally fitted.
+Health and safety suggestions with running and jogging
+Suggestions include:
+
+Make sure you eat a healthy, well-balanced diet.
+Avoid eating directly before going for a run.
+Avoid running during the hottest part of the day in summer.
+Drink plenty of water before, during and after your run.
+Take your mobile phone with you.
+If using an iPod or headset, do not have the music too loud – stay alert and aware.
+Wear reflective materials if you're running in the early morning or at night.
+Tell someone where you plan to run and when you think you'll be back.
+Choose well-lit, populated routes and avoid dangerous and isolated areas.
+If you injure yourself while running, stop immediately. Seek medical advice.
+Where to get help
+Your doctor
+Always call triple zero for an ambulance in an emergency Tel. 000
+Physiotherapist
+Sports shoe store
+Local council
+Local running club
+Victorian Orienteering Association Tel. (03) 8846 4140
+Smartplay Tel. (03) 9674 8777
+[06-10-2022_10-26-44]
+[06-10-2022_10-26-44]Running and jogging - health benefits
+
+Summary
+Read the full fact sheet
+Both running and jogging are forms of aerobic exercise.
+A beginner to exercise should start with brisk walking, progress to jogging and work up to running.
+See your doctor for a check-up before starting a running program.
+
+On this page
+Health benefits of running and jogging
+Running versus jogging
+Goal setting for running and jogging
+Running and jogging for beginners
+Choosing running and jogging shoes
+Health and safety suggestions with running and jogging
+Where to get help
+ 
+ 
+
+Jogging or running is a popular form of physical activity. About one in five Australians try running (or jogging) at some stage in their life. Running is an appealing exercise because it doesn't cost a lot to take part and you can run at any time that suits you.
+
+Some runners choose to participate in fun runs, athletics races or marathons. If you are interested in competing with other runners, contact your local running club.
+
+Health benefits of running and jogging
+Regular running or jogging offers many health benefits. Running can:
+
+help to build strong bones, as it is a weight bearing exercise
+strengthen muscles
+improve cardiovascular fitness
+burn plenty of kilojoules
+help maintain a healthy weight.
+Running versus jogging
+The difference between running and jogging is intensity. Running is faster, uses more kilojoules and demands more effort from the heart, lungs and muscles than jogging. Running requires a higher level of overall fitness than jogging.
+
+Both running and jogging are forms of aerobic exercise. Aerobic means 'with oxygen' – the term 'aerobic exercise' means any physical activity that produces energy by combining oxygen with blood glucose or body fat.
+
+Goal setting for running and jogging
+Think about what you want to achieve from running or jogging. Issues to consider may include:
+
+Getting fit – if you're a beginner, you should start with brisk walking, progress to jogging and work up to running. This should take a few months.
+General fitness – mix your running with other forms of exercise (such as swimming or team sports) to maximise your overall fitness.
+Weight loss – adjust your diet to include plenty of fresh fruits and vegetables, lean meats, wholegrain cereals and low-fat dairy products. Cut back on dietary fats, takeaway foods, soft drinks and sugar.
+Companionship – you could run with a friend or join a local running club.
+Competition – running clubs may offer competitive events. Most clubs have sessions designed for beginners through to advanced runners. You can pit your running skills against others in fun runs or marathons. Many community-based running events cater for people of all ages and abilities. Join a local orienteering club to combine running with the challenge of navigating through various environments.
+Running and jogging for beginners
+Some general tips for beginners:
+
+See your doctor for a check-up before you start a running program. This is especially important if you are over 40 years, are overweight, have a chronic illness or haven't exercised in a long time.
+Pre-exercise screening is used to identify people with medical conditions that may put them at a higher risk of a experiencing a health problem during physical activity. It is a filter or ‘safety net’ to help decide if the potential benefits of exercise outweigh the risks for you. Print a copy of the pre-exercise screening tool and discuss it with your doctor or exercise professional.
+Start with brisk walking. Aim for 30 minutes per session. Allow a minimum of six weeks to build up to regular running. Aim to increase your jogging time each session, and alternate between walking and jogging.
+Make sure you warm up and stretch thoroughly before you head out. Cool your body down with light stretches when you return.
+Make sure you have plenty of fluids and take a water bottle with you on your run. Try to drink plenty of water before, during and after any activity.
+Allow at least two complete rest days per week to avoid overtraining, which may cause injury. Consider other low impact activities, such as swimming, at least once each week.
+Plan your route. If possible, choose flat, grassy areas rather than hard or loose (such as sandy) surfaces to reduce the risk of injury.
+Avoid running near roads. This is especially important if you have a pre-existing condition such as asthma. Vehicle exhaust fumes can increase your risk of various cardiovascular and respiratory complaints or illnesses.
+Avoid the 'peak hour' periods to reduce your risk of inhaling air pollution from motor vehicles. If possible, schedule your runs for either the early morning or the evening.
+Wear loose cotton clothing. Dress your upper body in layers of clothing so that you can take off layers as required.
+Apply SPF 50+ sunscreen to exposed skin areas.
+Buy an appropriate pair of shoes.
+Choosing running and jogging shoes
+Issues to consider when choosing running shoes include:
+
+Don't wear your old sneakers. Poorly fitted shoes are a common cause of injuries.
+The running shoe should bend easily, feel comfortable and have a wedge of shock-absorbing material in the heel.
+The fit should not be too snug. Your foot will splay as it impacts with the ground.
+When buying the shoes, wear the socks you intend to wear while running.
+Have your shoes professionally fitted.
+Health and safety suggestions with running and jogging
+Suggestions include:
+
+Make sure you eat a healthy, well-balanced diet.
+Avoid eating directly before going for a run.
+Avoid running during the hottest part of the day in summer.
+Drink plenty of water before, during and after your run.
+Take your mobile phone with you.
+If using an iPod or headset, do not have the music too loud – stay alert and aware.
+Wear reflective materials if you're running in the early morning or at night.
+Tell someone where you plan to run and when you think you'll be back.
+Choose well-lit, populated routes and avoid dangerous and isolated areas.
+If you injure yourself while running, stop immediately. Seek medical advice.
+Where to get help
+Your doctor
+Always call triple zero for an ambulance in an emergency Tel. 000
+Physiotherapist
+Sports shoe store
+Local council
+Local running club
+Victorian Orienteering Association Tel. (03) 8846 4140
+Smartplay Tel. (03) 9674 8777
+[06-10-2022_10-26-44]
+[06-10-2022_10-26-44]Running and jogging - health benefits
+
+Summary
+Read the full fact sheet
+Both running and jogging are forms of aerobic exercise.
+A beginner to exercise should start with brisk walking, progress to jogging and work up to running.
+See your doctor for a check-up before starting a running program.
+
+On this page
+Health benefits of running and jogging
+Running versus jogging
+Goal setting for running and jogging
+Running and jogging for beginners
+Choosing running and jogging shoes
+Health and safety suggestions with running and jogging
+Where to get help
+ 
+ 
+
+Jogging or running is a popular form of physical activity. About one in five Australians try running (or jogging) at some stage in their life. Running is an appealing exercise because it doesn't cost a lot to take part and you can run at any time that suits you.
+
+Some runners choose to participate in fun runs, athletics races or marathons. If you are interested in competing with other runners, contact your local running club.
+
+Health benefits of running and jogging
+Regular running or jogging offers many health benefits. Running can:
+
+help to build strong bones, as it is a weight bearing exercise
+strengthen muscles
+improve cardiovascular fitness
+burn plenty of kilojoules
+help maintain a healthy weight.
+Running versus jogging
+The difference between running and jogging is intensity. Running is faster, uses more kilojoules and demands more effort from the heart, lungs and muscles than jogging. Running requires a higher level of overall fitness than jogging.
+
+Both running and jogging are forms of aerobic exercise. Aerobic means 'with oxygen' – the term 'aerobic exercise' means any physical activity that produces energy by combining oxygen with blood glucose or body fat.
+
+Goal setting for running and jogging
+Think about what you want to achieve from running or jogging. Issues to consider may include:
+
+Getting fit – if you're a beginner, you should start with brisk walking, progress to jogging and work up to running. This should take a few months.
+General fitness – mix your running with other forms of exercise (such as swimming or team sports) to maximise your overall fitness.
+Weight loss – adjust your diet to include plenty of fresh fruits and vegetables, lean meats, wholegrain cereals and low-fat dairy products. Cut back on dietary fats, takeaway foods, soft drinks and sugar.
+Companionship – you could run with a friend or join a local running club.
+Competition – running clubs may offer competitive events. Most clubs have sessions designed for beginners through to advanced runners. You can pit your running skills against others in fun runs or marathons. Many community-based running events cater for people of all ages and abilities. Join a local orienteering club to combine running with the challenge of navigating through various environments.
+Running and jogging for beginners
+Some general tips for beginners:
+
+See your doctor for a check-up before you start a running program. This is especially important if you are over 40 years, are overweight, have a chronic illness or haven't exercised in a long time.
+Pre-exercise screening is used to identify people with medical conditions that may put them at a higher risk of a experiencing a health problem during physical activity. It is a filter or ‘safety net’ to help decide if the potential benefits of exercise outweigh the risks for you. Print a copy of the pre-exercise screening tool and discuss it with your doctor or exercise professional.
+Start with brisk walking. Aim for 30 minutes per session. Allow a minimum of six weeks to build up to regular running. Aim to increase your jogging time each session, and alternate between walking and jogging.
+Make sure you warm up and stretch thoroughly before you head out. Cool your body down with light stretches when you return.
+Make sure you have plenty of fluids and take a water bottle with you on your run. Try to drink plenty of water before, during and after any activity.
+Allow at least two complete rest days per week to avoid overtraining, which may cause injury. Consider other low impact activities, such as swimming, at least once each week.
+Plan your route. If possible, choose flat, grassy areas rather than hard or loose (such as sandy) surfaces to reduce the risk of injury.
+Avoid running near roads. This is especially important if you have a pre-existing condition such as asthma. Vehicle exhaust fumes can increase your risk of various cardiovascular and respiratory complaints or illnesses.
+Avoid the 'peak hour' periods to reduce your risk of inhaling air pollution from motor vehicles. If possible, schedule your runs for either the early morning or the evening.
+Wear loose cotton clothing. Dress your upper body in layers of clothing so that you can take off layers as required.
+Apply SPF 50+ sunscreen to exposed skin areas.
+Buy an appropriate pair of shoes.
+Choosing running and jogging shoes
+Issues to consider when choosing running shoes include:
+
+Don't wear your old sneakers. Poorly fitted shoes are a common cause of injuries.
+The running shoe should bend easily, feel comfortable and have a wedge of shock-absorbing material in the heel.
+The fit should not be too snug. Your foot will splay as it impacts with the ground.
+When buying the shoes, wear the socks you intend to wear while running.
+Have your shoes professionally fitted.
+Health and safety suggestions with running and jogging
+Suggestions include:
+
+Make sure you eat a healthy, well-balanced diet.
+Avoid eating directly before going for a run.
+Avoid running during the hottest part of the day in summer.
+Drink plenty of water before, during and after your run.
+Take your mobile phone with you.
+If using an iPod or headset, do not have the music too loud – stay alert and aware.
+Wear reflective materials if you're running in the early morning or at night.
+Tell someone where you plan to run and when you think you'll be back.
+Choose well-lit, populated routes and avoid dangerous and isolated areas.
+If you injure yourself while running, stop immediately. Seek medical advice.
+Where to get help
+Your doctor
+Always call triple zero for an ambulance in an emergency Tel. 000
+Physiotherapist
+Sports shoe store
+Local council
+Local running club
+Victorian Orienteering Association Tel. (03) 8846 4140
+Smartplay Tel. (03) 9674 8777
+[06-10-2022_10-26-44]
+[06-10-2022_10-34-42]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_10-34-42]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_10-34-42]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_10-34-43]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_10-34-43]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_10-35-57]Running can significantly improve physical and mental health As a form of aerobic exercise running can reduce stress improve heart health 
+[06-10-2022_10-35-57]Health benefits of running and jogging help to build strong bones as it is a weight bearing exercise strengthen muscles improve cardiovascular fitness burn 
+[06-10-2022_10-35-57]Une automobile simplification historique de l'expression voiture légère automobile est un véhicule à roues motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages1 L'abréviation populaire voiture est assez courante bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés La construction automobile est un secteur économique important pour les pays possédant des constructeurs ou des sites d'assemblage Son industrie a été l'un des secteurs les plus importants et les plus influents depuis le début du xxe siècle
+[06-10-2022_10-35-57]Le Japon forme depuis 1945 un archipel de 6 852 îles de plus de 100 m2 dont les quatre plus grandes sont Hokkaidō Honshū Shikoku et Kyūshū représentant à elles seules 95 % de la superficie terrestre du pays L'archipel s'étend sur plus de trois mille kilomètres
+[06-10-2022_10-35-57]Le fromage est un aliment obtenu à partir de lait coagulé de produits laitiers ou d'éléments du lait comme le petit-lait ou la crème Le fromage est fabriqué à partir de lait de vache principalement mais aussi de brebis de chèvre de bufflonne ainsi qu'occasionnellement de chamelle de renne d'élan de jument
+[06-10-2022_10-36-24]
+[06-10-2022_10-36-24]
+[06-10-2022_10-36-24]
+[06-10-2022_10-36-24]
+[06-10-2022_10-36-24]
+[06-10-2022_10-36-25]
+[06-10-2022_10-36-25]
+[06-10-2022_10-36-25]
+[06-10-2022_10-36-25]
+[06-10-2022_10-36-25]
+[06-10-2022_10-36-31]
+[06-10-2022_10-36-31]
+[06-10-2022_10-36-31]
+[06-10-2022_10-36-31]
+[06-10-2022_10-36-31]
+[06-10-2022_10-37-10]
+[06-10-2022_10-37-10]
+[06-10-2022_10-37-10]
+[06-10-2022_10-37-10]
+[06-10-2022_10-37-10]
+[06-10-2022_10-51-05]
+[06-10-2022_10-51-05]
+[06-10-2022_10-51-05]
+[06-10-2022_10-51-05]
+[06-10-2022_10-51-05]
+[06-10-2022_01-47-30]Error : Campaign file doesn't exist here : C://Users//Juliette//Fichiers//M1//TER//relevelance//ressources//campaign.xml
+[06-10-2022_01-47-32]Error : Campaign file doesn't exist here : C://Users//Juliette//Fichiers//M1//TER//relevelance//ressources//campaign.xml
+[06-10-2022_05-26-01]0 === 0
+[06-10-2022_05-32-01]0 === 3
+[06-10-2022_05-32-08]1 === 3
+[06-10-2022_05-32-52]Assessment is unfinished because it is invalid.
+[06-10-2022_05-32-55]Assessment is unfinished because it is invalid.
+[06-10-2022_05-34-17]Assessment is unfinished because it is invalid.
+[06-10-2022_07-33-59]Error : Campaign file doesn't exist here : C://Users//Bastien GATTACIECCA//Desktop//Projet TER//relevelance//ressources//campaign.xml
+[06-10-2022_09-26-26][{"topic_id":9,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":12,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":2,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1}]
+[06-10-2022_09-26-54][{"topic_id":9,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":12,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":2,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1}]
+[06-10-2022_09-27-07][{"topic_id":9,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":12,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":2,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1}]
+aaa
+[06-10-2022_09-27-52][{"topic_id":9,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":12,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1},{"topic_id":2,"nb_assessments":1,"nb_completed_assessments":0,"nb_remaining_assessments":1}]
+[06-10-2022_11-41-39]3
+[06-10-2022_11-41-39]3
+[06-10-2022_11-43-59]salut
+[06-10-2022_11-43-59]salut
+[06-10-2022_11-44-33]1
+[06-10-2022_11-44-33]1
+[06-10-2022_11-45-39]1
+[06-10-2022_11-45-39]1
+[06-10-2022_11-46-38][{"id":47,"expert_id":"Farid","topic_id":9,"document_id":2,"is_completed":1},{"id":1428,"expert_id":"Farid","topic_id":12,"document_id":456,"is_completed":1},{"id":2920,"expert_id":"Farid","topic_id":2,"document_id":582,"is_completed":1}]
+[06-10-2022_11-46-38][{"id":47,"expert_id":"Farid","topic_id":9,"document_id":2,"is_completed":1},{"id":1428,"expert_id":"Farid","topic_id":12,"document_id":456,"is_completed":1},{"id":2920,"expert_id":"Farid","topic_id":2,"document_id":582,"is_completed":1}]
+[06-10-2022_11-51-14]AA1
+[06-10-2022_11-51-15]AA1
+[06-10-2022_11-52-45]salut
+[06-10-2022_11-52-45]salut
+[06-10-2022_11-55-11]salut
+[06-10-2022_11-55-26]salut
+[06-10-2022_11-55-52]salut
+[06-10-2022_11-55-52]salut
+[06-10-2022_11-55-52]salut
+[06-10-2022_11-55-52]salut
+[06-10-2022_11-55-52]salut
+[06-10-2022_11-55-52]salut
+normalkement y'a 3fois la ligne 1 qui pop
+[06-10-2022_11-58-15]0
+[06-10-2022_11-58-15]0
+[06-10-2022_11-58-15]0
+[06-10-2022_11-58-15]0
+[06-10-2022_11-58-15]0
+[06-10-2022_11-58-15]0
+[06-11-2022_12-00-58]0
+[06-11-2022_12-00-58]0
+[06-11-2022_12-00-58]0
+[06-11-2022_12-00-58]0
+[06-11-2022_12-00-58]0
+[06-11-2022_12-00-58]0
+[06-11-2022_12-01-12]0
+[06-11-2022_12-01-12]0
+[06-11-2022_12-01-12]0
+[06-11-2022_12-01-12]0
+[06-11-2022_12-01-12]0
+[06-11-2022_12-01-12]0
+[06-11-2022_12-02-59]0
+[06-11-2022_12-02-59]0
+[06-11-2022_12-02-59]0
+[06-11-2022_12-02-59]0
+[06-11-2022_12-02-59]0
+[06-11-2022_12-02-59]0
+[06-11-2022_12-04-18]0
+[06-11-2022_12-04-18]0
+[06-11-2022_12-04-18]0
+[06-11-2022_12-04-18]0
+[06-11-2022_12-04-18]0
+[06-11-2022_12-04-18]0
+[06-11-2022_12-07-09]1
+[06-11-2022_12-07-09]1
+[06-11-2022_12-07-09]1
+[06-11-2022_12-08-08]1
+[06-11-2022_12-08-08]1
+[06-11-2022_12-08-08]1
+[06-11-2022_12-08-08]1
+[06-11-2022_12-08-08]1
+[06-11-2022_12-08-08]1
+[06-11-2022_12-09-36]1
+[06-11-2022_12-09-36]1
+[06-11-2022_12-09-36]1
+[06-11-2022_12-09-36]1
+[06-11-2022_12-09-36]1
+[06-11-2022_12-09-36]1
+[06-11-2022_12-09-44]1
+[06-11-2022_12-09-44]1
+[06-11-2022_12-09-44]1
+[06-11-2022_12-09-44]1
+[06-11-2022_12-09-44]1
+[06-11-2022_12-09-44]1
+[06-11-2022_12-15-42]Assessment is unfinished because it is invalid.

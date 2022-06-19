@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tags_global>
+    <tag_global value="-2" color="000000">NOT_REVIEWED</tag_global>
+	<tag_global value="-1" color="000000">unassessed</tag_global>
+	<tag_global value="0" color="A6282C">not relevant</tag_global>
+    <tag_global value="1" color="3D28A6">moderately relevant</tag_global>
+    <tag_global value="2" color="28A63F">relevant</tag_global>
+</tags_global>

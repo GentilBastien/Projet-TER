@@ -1,0 +1,23 @@
+span {
+    user-select: none;
+}
+
+span.clic {
+    font-size: 15px;
+    letter-spacing: 0.010em;
+    font-weight: 400;
+
+    color: #434343;
+    line-height: 30px;
+    border-radius: 5px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.no {
+    cursor: default;
+}
+
+.selected {
+    border: 1px solid black;
+}

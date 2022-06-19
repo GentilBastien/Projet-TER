@@ -1,0 +1,4 @@
+9 2 Farid Une 0 1 automobile 1 0 historique 3 0 de 4 0 l'expression 5 0 voiture 6 0 légère 7 1 un 10 2 et 15 0 destiné 16 0 au 17 1 terrestre 19 0 personnes 22 2 de 24 1 bagages1 26 0 populaire 28 0 voiture 29 0 est 30 0 assez 31 0 courante 32 1 bien 33 0 que 34 0 ce 35 0 terme 36 0 désigne 37 0 de 38 1 nombreux 39 0 types 40 0 véhicules 42 1 ne 44 0 sont 45 0 pas 46 0 
+2 582 Farid Running 0 2 can 1 0 significantly 2 0 improve 3 0 physical 4 0 and 5 0 mental 6 1 
+12 456 Farid Le 0 0 Japon 1 0 forme 2 0 depuis 3 0 1945 4 0 un 5 2 
+12 986 Farid Le 0 2 correspond 2 0 à 3 0 l'ensemble 4 0 de 5 0 toutes 6 0 les 7 0 transformations 8 0 chimiques 9 2 

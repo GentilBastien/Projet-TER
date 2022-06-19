@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics task="Multilingual Semantic Search" task-id="1">
+  <topic number="2" xml:lang="en">
+	<keyword>running beneficial health</keyword>
+	<conversational>how is running beneficial to your health?</conversational>
+	<explanation>Looking for studies answering questions of impact of running on cardiovascular health.</explanation>
+  </topic>
+  <topic number="3" xml:lang="en">
+	<keyword>coronavirus under reporting</keyword>
+	<conversational>how has lack of testing availability led to underreporting of true incidence of Covid-19?</conversational>
+	<explanation>Looking for studies answering questions of impact of lack of complete testing for Covid-19 on incidence and prevalence of Covid-19.</explanation>
+  </topic>
+  <topic number="5" xml:lang="en">
+	<keyword>variole singe</keyword>
+	<conversational>Ceci est le conversational de la variole du singe</conversational>
+	<explanation>La variole du singe est une maladie</explanation>
+  </topic>
+  <topic number="9" xml:lang="en">
+	<keyword>conquete spatiale</keyword>
+	<conversational>quel est l'impact écologique de la conquete et de l'exploration spatiale sur l'environnement et plus particulièrement sur la pollution aérienne et maritime terrestre</conversational>
+	<explanation>Il s'agit d'une explanation moyennement detaillee</explanation>
+  </topic>
+  <topic number="12" xml:lang="en">
+	<keyword>tsunami vague</keyword>
+	<conversational>quels sont les degats d'un tsunamis</conversational>
+	<explanation>il signifie littéralement vague portuaire et correspond aux raz-de-marée en occident.</explanation>
+  </topic>
+</topics>

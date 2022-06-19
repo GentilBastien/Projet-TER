@@ -1,0 +1,4 @@
+9 2 Farid 
+5 582 Juliette 
+12 456 Farid 
+3 456 Nathaniel 

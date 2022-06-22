@@ -11,18 +11,18 @@
 	<explanation>Looking for studies answering questions of impact of lack of complete testing for Covid-19 on incidence and prevalence of Covid-19.</explanation>
   </topic>
   <topic number="5" xml:lang="en">
-	<keyword>variole singe</keyword>
-	<conversational>Ceci est le conversational de la variole du singe</conversational>
-	<explanation>La variole du singe est une maladie</explanation>
+	<keyword>monkey pox Disease</keyword>
+	<conversational>Multi-country monkeypox outbreak in non-endemic countries</conversational>
+	<explanation>The objective of this Disease Outbreak News is to raise awareness, inform readiness and response efforts, and provide technical guidance for immediate recommended actions.</explanation>
   </topic>
   <topic number="9" xml:lang="en">
-	<keyword>conquete spatiale</keyword>
-	<conversational>quel est l'impact écologique de la conquete et de l'exploration spatiale sur l'environnement et plus particulièrement sur la pollution aérienne et maritime terrestre</conversational>
-	<explanation>Il s'agit d'une explanation moyennement detaillee</explanation>
+	<keyword>space conquest spatiale</keyword>
+	<conversational>what is the ecological impact of the conquest and exploration of space on the environment and more particularly on air and sea pollution on land?</conversational>
+	<explanation>Not only did space conquest impact the human beings' view on reality and their current lives. But it also had a major economic impact.</explanation>
   </topic>
   <topic number="12" xml:lang="en">
-	<keyword>tsunami vague</keyword>
-	<conversational>quels sont les degats d'un tsunamis</conversational>
-	<explanation>il signifie littéralement vague portuaire et correspond aux raz-de-marée en occident.</explanation>
+	<keyword>tsunami wave</keyword>
+	<conversational>what are the damages of a devastating tsunami ?</conversational>
+	<explanation>It is like hearing that a hurricane or tsunami is coming and being told that we should reflect on the positive aspects of water and wind!</explanation>
   </topic>
 </topics>

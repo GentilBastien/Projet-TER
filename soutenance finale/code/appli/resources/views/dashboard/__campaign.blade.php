@@ -108,10 +108,12 @@
                 @endif
             </table>
         </div>
+        @if ($type == 'expert')
         <div>
             <span id="detailedInstrutionsLink">
-                <a href="{{"https://" . $campaign->getDetailedInstructions() }}" target="_blank">Detailed instructions</a>
+                <a href="detailedInstructions.html" target="_blank">Detailed instructions</a>
             </span>
         </div>
+        @endif
     </div>
 @endsection

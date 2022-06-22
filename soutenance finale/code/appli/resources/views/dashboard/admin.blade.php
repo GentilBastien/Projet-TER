@@ -34,18 +34,20 @@
         {{-- Add experts --}}
         <form action="{{ route('add', 'experts') }}" method="POST" id="addExperts">
             @csrf
-            <label for="input_expert">Add experts</label>
-            <input type="hidden" id="content_expert" name="content_expert" value="">
-            <input id="input_expert" type="file" accept=".txt" onchange="readText(event,'content_expert','addExperts')" />
+            <label class="addButtons" for="input_expert"><br> Add experts
+                <input type="hidden" id="content_expert" name="content_expert" value="">
+                <input id="input_expert" type="file" accept=".txt" onchange="readText(event,'content_expert','addExperts')" />
+            </label>
         </form>
 
         {{-- Add assessments --}}
         <form action="{{ route('add', 'assessments') }}" method="POST" id="addAssessments">
             @csrf
-            <label for="input_assessment">Add assessments</label>
-            <input type="hidden" id="content_assessment" name="content_assessment" value="">
-            <input id="input_assessment" type="file" accept=".txt"
-                onchange="readText(event,'content_assessment','addAssessments')" />
+            <label class="addButtons" for="input_assessment"><br>Add assessments
+                <input type="hidden" id="content_assessment" name="content_assessment" value="">
+                <input id="input_assessment" type="file" accept=".txt"
+                    onchange="readText(event,'content_assessment','addAssessments')" />
+            </label>
         </form>
 
         <script>

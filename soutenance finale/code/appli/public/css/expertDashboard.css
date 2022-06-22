@@ -73,10 +73,13 @@ button img {
 }
 
 .redButton span {
+    display: block;
+    font-size: 18px; 
     font-weight: 600;
+    padding: 8px;
     letter-spacing: normal;
     color: #FF6A6A;
-    font-size: 18px;
+
 }
 
 
@@ -120,6 +123,8 @@ table td.content {
 
 /*BUTTON*/
 .greenButton {
+    display: block;
+    padding: 8px;
     float: right;
     background: rgba(114, 189, 163, 0.1);
     border: 1px solid #72BDA3;

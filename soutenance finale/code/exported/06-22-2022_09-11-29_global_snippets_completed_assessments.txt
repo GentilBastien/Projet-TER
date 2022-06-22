@@ -1,0 +1,4 @@
+9 2 Farid 1
+12 456 Farid 2
+2 582 Farid 2
+12 986 Farid 0

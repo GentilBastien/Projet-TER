@@ -2,7 +2,7 @@
     <span>Logged as: <b>{{ $user->id }}</b> ({{ $type }})</span>
     <a href="{{ route('logout') }}" tabindex="-1">
         <button type="button" class="redButton" tabindex="-1">
-            <img src="img/logout.png" />
+
             <span>Disconnect</span>
         </button>
     </a>

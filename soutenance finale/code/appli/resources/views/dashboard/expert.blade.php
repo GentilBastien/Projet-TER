@@ -22,7 +22,6 @@
     @endif
     >
         <button type="button" class="greenButton">
-            <img src="img/save.png" />
             <span @if (!$has_next) class="disabled" @endif>Start assessment</span>
         </button>
     </a>

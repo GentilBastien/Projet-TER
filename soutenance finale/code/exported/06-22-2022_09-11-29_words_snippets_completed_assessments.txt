@@ -1,0 +1,4 @@
+9 2 Farid Une 0 0 automobile 1 0 de 4 1 l'expression 5 0 La 49 0 construction 50 1 automobile 51 2 
+12 456 Farid Le 0 1 Japon 1 2 
+2 582 Farid significantly 2 2 improve 3 0 physical 4 0 mental 6 1 health 7 0 As 8 0 exercise 13 0 can 15 1 
+12 986 Farid Le 0 2 métabolisme 1 2 correspond 2 1 l'ensemble 4 0 de 5 0 toutes 6 0 transformations 8 0 décomposables 10 0 

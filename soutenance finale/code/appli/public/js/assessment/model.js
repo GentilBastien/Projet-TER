@@ -23,10 +23,11 @@ class Assessment {
     }
 
     setGlobalAnnotation(globalTag) {
-            this.globalTag = globalTag.value;
+        this.globalTag = globalTag.value;
     }
 
     setWordAnnotation(index, wordTag) {
         this.wordsTag[index] = wordTag.value;
     }
 }
+

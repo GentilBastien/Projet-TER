@@ -61,7 +61,7 @@ table { /*both campaign and topics tables*/
 
 .logout span {
     position: relative;
-    top: 14px;
+    top: 0px;
     font-size: 24px;
 }
 
@@ -74,11 +74,13 @@ table { /*both campaign and topics tables*/
 }
 
 .redButton span {
-    top: -17px;
+    top: 0px;
+    display: block;
+    font-size: 18px; 
     font-weight: 600;
+    padding: 8px;
     letter-spacing: normal;
     color: #FF6A6A;
-    font-size: 18px;
 }
 
 

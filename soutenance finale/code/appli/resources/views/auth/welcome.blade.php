@@ -30,8 +30,8 @@
     </a>
 
     @php
-       // Artisan::call('db:wipe');
-       // App\CampaignLaunch::getInstance();
+        // Artisan::call('db:wipe');
+        // App\CampaignLaunch::getInstance();
     @endphp
 
 
